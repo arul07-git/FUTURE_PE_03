@@ -162,3 +162,6 @@ To adapt this entire content pack for a different city or business:
 5. Run the prompts in `prompts/prompt-templates.md` with the new variables filled in
 
 This system works for: **diagnostic centres, dental clinics, physiotherapy centres, eye care clinics, hospitals, and any local health service business.**
+
+Screenshot of linkedin post :-<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/f1b65df8-a5c9-47ef-b543-42eeda82c27d" />
+
